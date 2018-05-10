@@ -3,3 +3,11 @@
     margin: 0;
     list-style: none;
 }
+
+header {
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    background: red;
+}
